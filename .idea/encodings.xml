@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/Scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/Scala/Scala_01_basic/Scala_01_DataType/Casting.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/Scala/Scala_01_basic/Scala_01_DataType/Demo.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/Scala/Scala_01_basic/Scala_01_DataType/Escape.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/Scala/Scala_01_basic/Scala_01_DataType/HelloWorld.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/Scala/Scala_0n_Pratice/Scala_01_PraticeProblem/Demo1.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/Scala/Scala_0n_Pratice/Scala_01_PraticeProblem/Demo11.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/Scala/Scala_0n_Pratice/Scala_01_PraticeProblem/Demo12.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/Scala/Scala_0n_Pratice/Scala_01_PraticeProblem/Demo14.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/Scala/Scala_0n_Pratice/Scala_01_PraticeProblem/Demo2.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/Scala/Scala_0n_Pratice/Scala_01_PraticeProblem/Demo3.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/Scala/Scala_0n_Pratice/Scala_01_PraticeProblem/Demo4.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/Scala/Scala_0n_Pratice/Scala_01_PraticeProblem/Demo5.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/Scala/Scala_0n_Pratice/Scala_01_PraticeProblem/Demo6.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/Scala/Scala_0n_Pratice/Scala_01_PraticeProblem/Demo8.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/DataStructure/Linked/LinkedList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/DataStructure/Tree/BinaryTree.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/python" charset="GBK" />
+  </component>
+</project>

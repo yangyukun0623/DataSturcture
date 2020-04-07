@@ -1,0 +1,30 @@
+package Bit;
+
+
+import java.util.Scanner;
+
+public class BitDemo01 {
+    public static void main(String[] args) {
+        //??????&
+
+        //?§Ø??????
+        int n = new Scanner(System.in).nextInt();
+        if ((n & 1) != 1){
+            System.out.println("n ?????");
+        }else {
+            System.out.println("n ??????");
+        }
+
+        //?§Ø??????????n?????2????¦Ç?
+        System.out.println((n & (n - 1)) == 0);
+
+        //?§Ø???????n??????????§Ø????1
+        int count = 0;
+        int k = 1;
+        while (n != 0){
+            count++;
+            n = n & (n - 1);
+        }
+        System.out.println(count);
+    }
+}
