@@ -10,14 +10,8 @@ public class BitDemo {
         for (int i = 0; i <= 100; i++){
             System.out.println(i + "\t\t" + ~i);
         }
-
     }
-
     public static int multiply1(int a, int b) {
         return a * b;
     }
-
-
-
-
 }
